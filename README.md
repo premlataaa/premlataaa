@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm _Premlata_ ✨
 
 
-                                                     A Passionate Coder from Mumbai,India
- hello                     
+                                                     A Passionate Coder from Mumbai,India                   
 ### About Me 🎮👨‍💻
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I am well-versed in both basic front-end and core back-end development, and I understand the importance of creating a seamless experience for users across all platforms and devices.
 
