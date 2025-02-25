@@ -14,7 +14,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👨‍💻 All of my projects are available at https://premlataaa.github.io/
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: When I'm not optimizing backend systems, you'll find me dominating leaderboards in my favorite games. Code by day, game by night! 🕹️✨
-- 📄 **Resume** (http://127.0.0.1:3000/premlata.github.io/premlata.github.io/Premlata-Resume.pdf)
+- 📄 **Resume** (https://drive.google.com/file/d/1XzvtwWDgYThrHkvWIbcVXSueZ7D1H5Dv/view?usp=sharing)
  
 
 
